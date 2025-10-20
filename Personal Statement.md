@@ -10,4 +10,4 @@ I am gradually losing my knowledge of some programming languages. Though I proba
 
 I am planning to go through my old college work and sort it out into small pieces on GitHub, not only refreshing my knowledge but also reminding me of my lovely college life.
 
-<img src="res/d251019.jpg" style="zoom:50%;">
+<img src="images/d251019.jpg" style="zoom:50%;">
