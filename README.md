@@ -1,8 +1,8 @@
-# Hello 👋 This is Mengjin
+# Hello 👋 This is Mengjin ♐
 Someone wishing to warm everybody around just like my surname ☀
 
 Currently：
-- 👾 E-Commerce data analyst @ swim usa
+- 🐬 E-Commerce data analyst @ swim usa
 - 🏆 SOA Exams P, FM, SRM passed
 
 Previously:
@@ -10,3 +10,5 @@ Previously:
 - Bussiness Assistant in Bethlehem, PA
 - **M.S. in Applied Mathematics** - Lehigh University, PA
 - **B.S. in Mathematics** - Randolph College, VA
+
+🀄 Native in Chinese, fluent in English, and Duolingo🦉ing in Japanese
