@@ -1,5 +1,6 @@
 # Hello 👋 This is Mengjin ♐
 Someone wishing to warm everybody around just like my surname ☀
+You are welcomed to check out my practice demo files ([R]()/[Excel]()) and old java work as resources.
 
 Currently：
 - 🐬 E-Commerce data analyst @ swim usa
