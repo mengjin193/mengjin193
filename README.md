@@ -12,4 +12,4 @@ Previously:
 - **M.S. in Applied Mathematics** - Lehigh University, PA
 - **B.S. in Mathematics** - Randolph College, VA
 
-🀄 Native in Chinese, fluent in English, and Duolingo🦉ing in Japanese
+🀄 Native in Chinese, fluent in English
